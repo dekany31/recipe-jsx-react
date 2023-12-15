@@ -1,0 +1,18 @@
+.container {
+  width: 100hw;
+  display: grid;
+  justify-content: center;
+  font-size: 1.5em;
+}
+
+.item {
+  width: 750px;
+}
+
+ol {
+  padding: 10px;
+}
+
+h1 {
+  text-align: center;
+}
